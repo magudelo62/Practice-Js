@@ -55,6 +55,15 @@ aside{
 	float: left;
 	padding: 10px;
 	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+
+aside article{
+	margin-bottom: 10px;
+}
+
+aside article ul li{
+	list-style: none;
 }
 
 footer{
